@@ -1,6 +1,6 @@
 slack-bolt>=1.19.1,<2
-slack-sdk>=3.33.1,<4
-openai>=1.51.2,<2
+slack-sdk>=3.30.0,<4
+openai>=1.35.9,<2
 tiktoken>=0.7,<0.8
 # https://github.com/Yelp/elastalert/issues/2306
 urllib3<2
